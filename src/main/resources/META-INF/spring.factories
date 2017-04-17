@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.jorgehernandezramirez.spring.springboot.autoconfiguration.configuration.UserConfiguration
+  com.jorgehernandezramirez.spring.springboot.autoconfiguration.configuration.UserAutoConfiguration

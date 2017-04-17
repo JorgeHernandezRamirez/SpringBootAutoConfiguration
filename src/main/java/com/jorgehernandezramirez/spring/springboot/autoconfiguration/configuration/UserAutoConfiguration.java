@@ -8,9 +8,9 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-public class UserConfiguration {
+public class UserAutoConfiguration {
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(UserConfiguration.class);
+    private static final Logger LOGGER = LoggerFactory.getLogger(UserAutoConfiguration.class);
 
     @Bean
     public IUserService buildUserService(){
